@@ -41,4 +41,4 @@ We have made this project in 5 days.<br />
 
 ## Authors
 
-- [@Aman Sharma](https://github.com/Aman103767)
+- [@Adarsh Khatri](https://github.com/AdarshKhatri1)
